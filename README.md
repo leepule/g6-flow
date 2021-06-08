@@ -1,24 +1,5 @@
-# g6ground
+# g6-flow
 
-## Project setup
-```
-npm install
-```
+基于G6的一个流程图编辑器，参考G6-Editor
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![demo](./h16e8-vd1m9.gif)
